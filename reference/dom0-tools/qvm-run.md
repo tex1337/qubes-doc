@@ -24,6 +24,8 @@ SYNOPSIS
 
 qvm-run [options] [\<vm-name\>] [\<cmd\>]
 
+_Note: \<cmd\> portion requires wrapping in quotes (" " / ' ')_
+
 OPTIONS
 -------
 
